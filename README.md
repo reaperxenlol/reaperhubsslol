@@ -7,7 +7,7 @@ This repository contains obfuscated HTTP scripts for loading strings.
 Load the script using HTTP:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/http-scripts/main/loadstring.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/reaperxenlol/reaperhubsslol/main/loadstring.lua"))()
 ```
 
 ## Files
